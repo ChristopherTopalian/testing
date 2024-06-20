@@ -1,4 +1,5 @@
 # testing
 
-:mod:`!re` --- abs
+.. module:: re
+   :synopsis: abs
 
