@@ -1,5 +1,4 @@
 # testing
 
-.. module:: re
-   :synopsis: abs
+...Test
 
