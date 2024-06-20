@@ -1,2 +1,4 @@
 # testing
-testing. just testing something.
+
+:mod:`!re` --- abs
+
