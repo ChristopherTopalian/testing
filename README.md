@@ -4,7 +4,7 @@
 
 <details>
 <summary> abs </summary>
-#### [print.py](py/print.py)
+<pre> abs returns the absolute value of a number. </pre>
 </details>
 
 
