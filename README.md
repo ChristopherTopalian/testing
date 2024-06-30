@@ -3,8 +3,8 @@
 ...Test
 
 <details>
-  <summary> abs </summary>
-<pre>  #### [print.py](py/print.py)</pre>
+<summary> abs </summary>
+#### [print.py](py/print.py)
 </details>
 
 
